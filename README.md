@@ -1,5 +1,5 @@
 - 👋 Hi, I am kantesreenithin
--  I am currently pursuing my B tech at LovelyProfessionalUniversity in the domain of ComputerScience
+-  I am currently pursuing my B tech at LovelyProfessionalUniversity in the domain of ComputerScienceEngineering.
 -  Skills: C,C++
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I am kantesreenithin
 -  I am currently pursuing my B tech at LovelyProfessionalUniversity in the domain of ComputerScience
--Skills: C,C++
+-  Skills: C,C++
 
 <!---
 kantesreenithin/kantesreenithin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
